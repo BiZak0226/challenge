@@ -1,0 +1,8 @@
+name: challenge
+version: 0.1
+main: kr.magpie.challenge.Challenge
+api-version: 1.19
+commands:
+  mpch:
+    description: main command
+    usage: /mpch open
