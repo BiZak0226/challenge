@@ -1,0 +1,95 @@
+#Basic
+1:
+  name:
+  lore:
+  condition:
+2:
+  name:
+  lore:
+  condition:
+    breakBlock:
+      WOOD: 5
+    getItem:
+      WOOD: 5
+3:
+  name:
+  lore:
+  condition:
+4:
+  name:
+  lore:
+  condition:
+5:
+  name:
+  lore:
+  condition:
+6:
+  name:
+  lore:
+  condition:
+7:
+  name:
+  lore:
+  condition:
+8:
+  name:
+  lore:
+  condition:
+9:
+  name:
+  lore:
+  condition:
+10:
+  name:
+  lore:
+  condition:
+11:
+  name:
+  lore:
+  condition:
+12:
+  name:
+  lore:
+  condition:
+13:
+  name:
+  lore:
+  condition:
+14:
+  name:
+  lore:
+  condition:
+15:
+  name:
+  lore:
+  condition:
+16:
+  name:
+  lore:
+  condition:
+17:
+  name:
+  lore:
+  condition:
+18:
+  name:
+  lore:
+  condition:
+19:
+  name:
+  lore:
+  condition:
+20:
+  name:
+  lore:
+  condition:
+21:
+  name:
+  lore:
+  condition:
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 name: challenge
 version: 0.1
-main: kr.magpie.challenge.Challenge
+main: kr.magpie.challenge.Main
 api-version: 1.19
 commands:
   mpch:

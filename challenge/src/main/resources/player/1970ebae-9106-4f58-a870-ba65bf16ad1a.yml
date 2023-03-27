@@ -1,0 +1,19 @@
+name: BiZak
+UUID: 1970ebae-9106-4f58-a870-ba65bf16ad1a
+join: null
+level: 0
+exp: 0
+task:
+  1:
+    condition:
+      getItem:
+        WOOD : 0
+    achieve: false
+  2:
+    condition:
+      getItem:
+        WOOD: 0
+        STONE: 0
+        DIRT: 0
+    achieve: false
+

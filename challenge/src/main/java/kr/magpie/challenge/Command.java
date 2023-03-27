@@ -1,12 +1,8 @@
 package kr.magpie.challenge;
 
-import org.bukkit.Bukkit;
-import org.bukkit.Material;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
-import org.bukkit.inventory.Inventory;
-import org.bukkit.inventory.ItemStack;
 
 public class Command implements CommandExecutor {
 
@@ -27,11 +23,6 @@ public class Command implements CommandExecutor {
         if (args.length == 1 && args[0].equals("open")) {
             /* 메인 GUI 오픈*/
             mainGUI.openMainGUI(player);
-//            Inventory inventory = Bukkit.createInventory(null, 6 * 9, "Main");
-//            ItemStack itemstack = new ItemStack(Material.IRON_SWORD);
-//            inventory.addItem(itemstack);
-//
-//            player.openInventory(inventory);
             return true;
         }
 
